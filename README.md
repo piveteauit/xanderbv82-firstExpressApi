@@ -5,7 +5,7 @@ npm init -y
 
 # 2: Install depencies
 ```sh
-npm i express pg
+npm i express pg cors
 ```
 
 # 3 : Create a light server
